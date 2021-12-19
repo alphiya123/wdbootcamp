@@ -1,0 +1,44 @@
+
+.topimg{
+    align-content:center;
+    margin-left: 300px;
+    margin-top: 20px;
+    height: 350px;
+    width: auto;
+}
+.heading{
+    text-align: center;
+    color: rgb(20, 2, 124);
+    font-family: 'Oswald', sans-serif;
+    }
+.heading1{
+text-align: center;
+color: rgb(70, 47, 78);
+font-family: 'Oswald', sans-serif;
+}
+.heading3{
+    text-align: center;
+    color: rgb(56, 171, 224);
+    font-family: 'Oswald', sans-serif;
+    }
+.heading2{
+    text-align: center;
+    color: rgb(68, 5, 77);
+    margin-top: 25px;
+}
+.headingundr{
+    text-align: center;
+    font-family: monospace;
+    color: darkviolet;
+    margin-top: 30px;
+}
+.card {display:inline-block;
+    
+}
+.divcontact{
+    margin-top: 20px;
+    background-color: deepskyblue;
+}
+.dropdown1{
+    background-color: orangered;
+}
